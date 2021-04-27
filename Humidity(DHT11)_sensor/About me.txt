@@ -1,0 +1,3 @@
+DHT11 is a Digital Sensor consisting of two different sensors in a single package.
+ The sensor contains an NTC (Negative Temperature Coefficient) Temperature Sensor, a Resistive-type Humidity Sensor and 
+an 8-bit Microcontroller to convert the analog signals from these sensors and produce a Digital Output.

@@ -1,0 +1,7 @@
+PIR stands for passive infrared. This motion sensor consists of a fresnel lens, an infrared detector, and supporting detection circuitry.
+ The lens on the sensor focuses any infrared radiation present around it toward the infrared detector. 
+Our bodies generate infrared heat, and as a result, this heat is picked up by the motion sensor.
+ The sensor outputs a 5V signal for a period of one minute as soon as it detects the presence of a person.
+ It offers a tentative range of detection of about 6–7 meters and is highly sensitive. When the PIR motion sensor detects a person, 
+it outputs a 5V signal to the Raspberry Pi through its GPIO and we define what the Raspberry Pi should do as it detects an intruder 
+through the Python coding. Here we are just printing "Intruder detected".

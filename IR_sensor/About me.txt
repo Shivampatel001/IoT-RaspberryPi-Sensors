@@ -1,0 +1,5 @@
+Infrared Sensors or IR Sensors are one of the frequently used sensor modules by electronics hobbyists and makers.
+They are often used as Obstacle Detecting Sensors or Proximity Sensors.
+
+IR Sensors emit and receive Infrared radiation. They are often used as Proximity Sensors i.e. 
+detect and alarm if an object is close to the sensor
